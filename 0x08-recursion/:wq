@@ -6,7 +6,7 @@
  * @n: the number
  * Return: i, i + 1, or -1
  */
-int_increasevar(int i, int n)
+'int_increasevar'(int i, int n)
 {
 if (i * i == n)
 return (i);
