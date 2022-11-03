@@ -12,5 +12,5 @@ return (0);
 if (n % 2 == 0)
 return (0);
 else
-	return (_isitprime(n, n / 2));
+return (_is_prime(n, n / 2));
 }
